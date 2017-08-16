@@ -12,8 +12,15 @@ widget = "custom"
 # Order that this section will appear in.
 weight = 10
 
+
 +++
-### Senior Software Engineer at GoZoomo (Gozoomo.com)
+### Software Engineering Intern at WalmartLabs, Washington DC
+#### June 2017 – August 2017
+
+• Developed a real-time, Big Data pipeline for analyzing 40 million daily sales data, gathered from 5500 Walmart Stores across the
+country. Created Druid database specs, REST API service and visualizations. Used Apache Spark, Spring framework and Druid.
+
+### Senior Software Engineer at GoZoomo (Gozoomo.com), Bengaluru
 #### November 2015 - May 2016
 * Designed and Developed Gozoomo CRM the backbone platform 
 handling all business communications and payment transactions 
@@ -23,7 +30,7 @@ running more than 200 auctions at once. Enhanced to support
 Multitenancy.
 * Worked as the Chief developer for above platforms, designed the architecture and technical specs.
 
-### SDE at Chronus 
+### SDE at Chronus, Chennai
 #### July 2014- October 2015
 * Automated Recovery Solution on AWS platform using Ruby SDK. Improved recovery time by 70%.
 
@@ -35,7 +42,7 @@ Multitenancy.
 for quality and for setting good development standards. 
 
 ### SDE Intern at Chronus Corporation
-May 2013 - June 2013
+#### May 2013 - June 2013
 * Created an Event planner application in RoR. 
 http://teamer.heroku.com 
 * Developed a Recommendation System for Skills (profile data) based on Collaborative Filtering technique in Ruby, Redis and 
